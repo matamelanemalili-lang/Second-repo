@@ -1,6 +1,6 @@
 # Program to determine the type of an animal
 # Mutshidzi Nemalili
-# 02 March 2024
+# 02 March 2024 - 2026
 
 print("Welcome to the Biology Expert")
 print("-----------------------------")
